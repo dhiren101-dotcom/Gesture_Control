@@ -1,4 +1,4 @@
-# Real-Time Hand Gesture Control using Mediapipe + Deep Learning
+# Real-Time Hand Gesture Control using Mediapipe + Deep Learning by Dhiren Thakur
 
 This project uses Mediapipe to detect hand landmarks and a custom-trained deep learning model to classify gestures in real-time using webcam; gestures to perform tasks on the computer without touching the keyboard or mouse, such as maximising,minimising, scroll upwards or downwards.
 
